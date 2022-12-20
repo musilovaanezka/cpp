@@ -1,0 +1,6 @@
+﻿  Pumpkin.cpp
+  cpp_prednaska.cpp
+C:\Users\amusil\source\repos\cpp_prednaska\cpp_prednaska\cpp_prednaska.cpp(5,10): warning C4067: Po direktivě preprocesoru byly neočekávané tokeny – očekával se nový řádek.
+C:\Users\amusil\source\repos\cpp_prednaska\cpp_prednaska\cpp_prednaska.cpp(11,9): warning C4101: k: neodkazovaná lokální proměnná
+  Generování kódu...
+  cpp_prednaska.vcxproj -> C:\Users\amusil\source\repos\cpp_prednaska\x64\Debug\cpp_prednaska.exe
